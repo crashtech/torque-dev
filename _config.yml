@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Several tools to empower your day-to-day development!
   All inspired by RoR design paradigms.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://torque.dev"
 
 # GitHub Pages required
