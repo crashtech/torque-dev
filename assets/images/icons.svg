@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <symbol id="sun" viewBox="0 0 24 24">
+    <circle cx="12" cy="12" r="5" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+    <line x1="12" y1="1" x2="12" y2="3" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+    <line x1="12" y1="21" x2="12" y2="23" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+    <line x1="1" y1="12" x2="3" y2="12" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+    <line x1="21" y1="12" x2="23" y2="12" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+  </symbol>
+
+  <symbol id="moon" viewBox="0 0 19.96 19.96">
+    <path d="M18.96,10.79c-.46,4.95-4.84,8.59-9.79,8.13-4.95-.46-8.59-4.84-8.13-9.79C1.44,4.82,4.86,1.4,9.17,1c-2.3,3.11-1.64,7.49,1.47,9.79,2.47,1.83,5.85,1.83,8.32,0Z" style="fill:none; stroke:currentColor; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/>
+  </symbol>
+</svg>

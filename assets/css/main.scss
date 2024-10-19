@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Basic
+@import "normalize";
+@import "variables";
+
+// Setup
+@import "fonts";
+@import "layout";
+@import "typography";
+@import "animations";
+
+// Components
+@import "icon";
+
+// Pages
+@import "home";

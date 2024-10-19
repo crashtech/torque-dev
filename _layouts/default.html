@@ -1,0 +1,16 @@
+---
+layout: vendor/compress
+---
+
+<!DOCTYPE html>
+<html lang="en-US">
+  {%- include head.html -%}
+  <body>
+    <input type="checkbox" form="ui" id="ui--color-scheme" hidden />
+    <label for="ui--color-scheme" title="Switch color scheme" tabindex="-1">
+      {% include icon.html name="sun" class="ui--dark-only center" %}
+      {% include icon.html name="moon" class="ui--light-only center" %}
+    </label>
+    {{ content }}
+  </body>
+</html>
